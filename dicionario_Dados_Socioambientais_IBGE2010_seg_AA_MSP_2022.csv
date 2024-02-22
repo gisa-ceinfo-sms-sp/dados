@@ -1,0 +1,44 @@
+NOME_VARIAVEL_IBGE;DESCRICAO;VAR_GISA_PAVS_IBGE2010
+V002DOM;Domicílios particulares permanentes;DOM_PP
+V012DOM;Domicílios particulares permanentes com abastecimento de água da rede geral;DOM_AGUA
+Variavel calculada;Percentual de Domicílios particulares permanentes com abastecimento de água da rede geral;PERC_DOM_AGUA
+V017DOM;Domicílios particulares permanentes com banheiro de uso exclusivo dos moradores ou sanitário e esgotamento sanitário via rede geral de esgoto ou pluvial;DOM_REDEESGOTO
+Variavel calculada;Percentual de Domicílios particulares permanentes com banheiro de uso exclusivo dos moradores ou sanitário e esgotamento sanitário via rede geral de esgoto ou pluvial;PERC_DOM_REDEESGOTO
+V035DOM;Domicílios particulares permanentes com lixo coletado;DOM_LIXOCOLET
+Variavel calculada;Percentual de Domicílios particulares permanentes com lixo coletado;PERC_DOM_LIXOCOLET
+V043DOM;Domicílios particulares permanentes com energia elétrica;DOM_ENERGELETR
+Variavel calculada;Percentual de Domicílios particulares permanentes com energia elétrica;PERC_DOM_ENERGELETR
+V002POP;Moradores em domicílios particulares permanentes;POP_DOM_PP
+Variavel calculada;Percentual de Moradores em domicílios particulares permanentes;PERC_POP_DOM_PP
+V012POP;Moradores em domicílios particulares permanentes com abastecimento de água da rede geral;POP_AGUA
+Variavel calculada;Percentual de Moradores em domicílios particulares permanentes com abastecimento de água da rede geral;PERC_POP_AGUA
+V017POP;Moradores em domicílios particulares permanentes com banheiro de uso exclusivo dos moradores ou sanitário e esgotamento sanitário via rede geral de esgoto ou pluvial;POP_REDEESGOTO
+Variavel calculada;Percentual de Moradores em domicílios particulares permanentes com banheiro de uso exclusivo dos moradores ou sanitário e esgotamento sanitário via rede geral de esgoto ou pluvial;PERC_POP_REDEESGOTO
+V030POP;Moradores em domicílios particulares permanentes com lixo coletado;POP_LIXOCOLET
+Variavel calculada;Percentual de Moradores em domicílios particulares permanentes com lixo coletado;PERC_POP_LIXOCOLET
+V038POP;Moradores em domicílios particulares permanentes com energia elétrica;POP_ENERGELETR
+Variavel calculada;Percentual de Moradores em domicílios particulares permanentes com energia elétrica;PERC_POP_ENERGELETR
+V050DOM;Domicílios particulares permanentes próprios – Existe esgoto a céu aberto;DOM_ESGOTOABERTO
+V052DOM;Domicílios particulares permanentes alugados – Existe esgoto a céu aberto;
+V054DOM;Domicílios particulares permanentes cedidos – Existe esgoto a céu aberto;
+Variavel calculada;Percentual de Domicílios particulares permanentes cedidos – Existe esgoto a céu aberto;PERC_DOM_ESGOTOABERTO
+V471POP;Moradores em domicílios particulares permanentes próprios – Existe esgoto a céu aberto;POP_ESGOTOABERTO
+V473POP;Moradores em domicílios particulares permanentes alugados – Existe esgoto a céu aberto;
+V475POP;Moradores em domicílios particulares permanentes cedidos – Existe esgoto a céu aberto;
+Variavel calculada;Percentual de Moradores em domicílios particulares permanentes cedidos – Existe esgoto a céu aberto;PERC_POP_ESGOTOABERTO
+V056DOM;Domicílios particulares permanentes próprios – Existe lixo acumulado nos logradouros;DOM_LIXOACUMUL
+V058DOM;Domicílios particulares permanentes alugados – Existe lixo acumulado nos logradouros;
+V060DOM;Domicílios particulares permanentes cedidos – Existe lixo acumulado nos logradouros;
+Variavel calculada;Percentual de Domicílios particulares permanentes cedidos – Existe lixo acumulado nos logradouros;PERC_DOM_LIXOACUMUL
+V477POP;Moradores em domicílios particulares permanentes próprios – Existe lixo acumulado nos logradouros;POP_LIXOACUMUL
+V479POP;Moradores em domicílios particulares permanentes alugados – Existe lixo acumulado nos logradouros;
+V481POP;Moradores em domicílios particulares permanentes cedidos – Existe lixo acumulado nos logradouros;
+Variavel calculada;Percentual de Moradores em domicílios particulares permanentes cedidos – Existe lixo acumulado nos logradouros;PERC_POP_LIXOACUMUL
+V015DOM;Domicílios particulares permanentes próprios – Não existe pavimentação;DOM_PAVIMENT
+V017DOM;Domicílios particulares permanentes alugados – Não existe pavimentação;
+V019DOM;Domicílios particulares permanentes cedidos – Não existe pavimentação;
+Variavel calculada;Percentual de Domicílios particulares permanentes cedidos – Não existe pavimentação;PERC_DOM_PAVIMENT
+V436POP;Moradores em domicílios particulares permanentes próprios – Não existe pavimentação;POP_PAVIMENT
+V438POP;Moradores em domicílios particulares permanentes alugados – Não existe pavimentação;
+V440POP;Moradores em domicílios particulares permanentes cedidos – Não existe pavimentação;
+Variavel calculada;Percentual de Moradores em domicílios particulares permanentes cedidos – Não existe pavimentação;PERC_POP_PAVIMENT
